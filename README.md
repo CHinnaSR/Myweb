@@ -105,19 +105,20 @@ The hotel industry faces significant challenges in managing room bookings, parti
   - ![SubnetSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Subnet.png)
 
    **Deployed VM 1 Screenshot**
-  - ![VM1SS Screenshot](./ProjectScreenshots/VM1SS.png)
+  - ![VM1SS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Vm01.png)
 
   **Deployed VM 2 Screenshot**
-  - ![VM2SS Screenshot](./ProjectScreenshots/VM2SS.png)
+  - ![VM2SS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/vm02.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![LoadbalancerSS Screenshot](./ProjectScreenshots/LoadbalancerSS.png)
+  - ![LoadbalancerSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/LoadBalancer.png
+)
 
   **Website Home Page Screenshot**
-  - ![Sitara-Hotel Homepage Screenshot](./ProjectScreenshots/closet.AIHomePage.png)
+  - ![Sitara-Hotel Homepage Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Home.png)
 
   **Generate Book Now after complete Deployment**
-  - ![GenerateOutfitsPage Screenshot](./ProjectScreenshots/GenerateOutfitsPage.png
+  - ![GenerateOutfitsPage Screenshot]()
 
   **About hotel Page after complete Deployment**
   - ![About hotel Page Screenshot](./ProjectScreenshots/AboutUsPage.png)

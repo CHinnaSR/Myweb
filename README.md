@@ -46,11 +46,9 @@ The hotel industry faces significant challenges in managing room bookings, parti
   - Networking settings to connect to the VNet and assigned Subnet.
   
   Custom Script:
-  ```bash
- #!/bin/bash
-sudo apt update
+  sudo apt update
 sudo apt install nginx git -y
-cd /tmp && git clone https://github.com/CHinnaSR/Sitara-Hotel.git
+cd /tmp && git clone https://github.com/abdulrhmn02/Frontend-Closet.AI.git mysitee
 sudo rm -rf /var/www/html/index.nginx-debian.html
 sudo cp -r /tmp/mysitee/* /var/www/html/
 

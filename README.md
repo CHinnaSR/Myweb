@@ -46,14 +46,12 @@ The hotel industry faces significant challenges in managing room bookings, parti
   - Networking settings to connect to the VNet and assigned Subnet.
   
  # Custom Script: 
-  '''bash
-  #!/bin/bash
-  sudo apt update
-  sudo apt install nginx git -y
-  cd /tmp && git clone https://github.com/CHinnaSR/Sitara-Hotel.git
-  sudo rm -rf /var/www/html/index.nginx-debian.html
-  sudo cp -r /tmp/mysitee/* /var/www/html/
-'''
+#!/bin/bash
+sudo apt update
+sudo apt install nginx git -y
+cd /tmp && git clone https://github.com/CHinnaSR/Sitara-Hotel.git
+sudo rm -rf /var/www/html/index.nginx-debian.html
+sudo cp -r /tmp/mysitee/* /var/www/html/
 - **VM 2**: Created in Availability Zone 2 with the same configuration as VM 1.
 
 ### 5. Load Balancer Configuration

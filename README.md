@@ -96,7 +96,7 @@ sudo cp -r /tmp/mysitee/* /var/www/html/
   - ![RSG-Deployment-output Screenshot](RG output.png)
 
   **VNet Subnets RSG ARM Template Output**
-  - ![VNetDeploymentoutputSS Screenshot]( "C:\Users\manda\OneDrive\Pictures\Screenshots\NSG &Vnet.png")
+  - ![VNetDeploymentoutputSS Screenshot]( NSG &Vnet.png)
 
    **Created VNet Screenshot** 
   - ![VNetSS Screenshot]( "C:\Users\manda\OneDrive\Pictures\Screenshots\vnet.png")

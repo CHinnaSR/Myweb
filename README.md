@@ -90,10 +90,10 @@ sudo cp -r /tmp/mysitee/* /var/www/html/
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot]( "C:\Users\manda\OneDrive\Pictures\Screenshots\Screenshot ResourceGroup.png")
+  - ![ResourceGroup Screenshot]( Screenshot ResourceGroup.png)
     
   **ResourceGroup Deployment Command Output**
-  - ![RSG-Deployment-output Screenshot]( "C:\Users\manda\OneDrive\Pictures\Screenshots\RG output.png")
+  - ![RSG-Deployment-output Screenshot]( )
 
   **VNet Subnets RSG ARM Template Output**
   - ![VNetDeploymentoutputSS Screenshot]( "C:\Users\manda\OneDrive\Pictures\Screenshots\NSG &Vnet.png")

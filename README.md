@@ -94,7 +94,8 @@ sudo cp -r /tmp/mysitee/* /var/www/html/
 /Screenshot ResourceGroup.png)
     
   **ResourceGroup Deployment Command Output**
-  - ![RSG-Deployment-output Screenshot]( )
+  - ![RSG-Deployment-output Screenshot](Sitara-Hotel
+/Screenshot ResourceGroup.png )
 
   **VNet Subnets RSG ARM Template Output**
   - ![VNetDeploymentoutputSS Screenshot]( NSG&Vnet.png)

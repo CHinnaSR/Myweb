@@ -96,7 +96,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
   - ![RSG-Deployment-output Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/RG%20output.png)
 
   **VNet Subnets RSG ARM Template Output**
-  - ![VNetDeploymentoutputSS Screenshot]( NSG&Vnet.png)
+  - ![VNetDeploymentoutputSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/NSG%20%26Vnet.png)
 
    **Created VNet Screenshot** 
   - ![VNetSS Screenshot](vnet.png )

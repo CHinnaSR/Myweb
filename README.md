@@ -90,8 +90,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot](Sitara-Hotel
-/Screenshot ResourceGroup.png)
+  - ![ResourceGroup Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Screenshot%20ResourceGroup.png)
     
   **ResourceGroup Deployment Command Output**
   - ![RSG-Deployment-output Screenshot](Sitara-Hotel

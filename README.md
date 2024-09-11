@@ -45,7 +45,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
   - Custom Script Extension to clone the website from GitHub.
   - Networking settings to connect to the VNet and assigned Subnet.
   
-  Custom Script:
+ # Custom Script: 
   '''bash
   #!/bin/bash
   sudo apt update

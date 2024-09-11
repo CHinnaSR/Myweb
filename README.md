@@ -118,10 +118,10 @@ The hotel industry faces significant challenges in managing room bookings, parti
   - ![Sitara-Hotel Homepage Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Home.png)
 
   **Generate Book Now after complete Deployment**
-  - ![GenerateOutfitsPage Screenshot]()
+  - ![GenerateOutfitsPage Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Book%20Now.png)
 
   **About hotel Page after complete Deployment**
-  - ![About hotel Page Screenshot](./ProjectScreenshots/AboutUsPage.png)
+  - ![About hotel Page Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/About%20hotel.png)
 
 
 ## Conclusion

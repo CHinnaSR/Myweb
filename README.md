@@ -93,7 +93,7 @@ sudo cp -r /tmp/mysitee/* /var/www/html/
   - ![ResourceGroup Screenshot]( Screenshot ResourceGroup.png)
     
   **ResourceGroup Deployment Command Output**
-  - ![RSG-Deployment-output Screenshot]( )
+  - ![RSG-Deployment-output Screenshot](RG output.png)
 
   **VNet Subnets RSG ARM Template Output**
   - ![VNetDeploymentoutputSS Screenshot]( "C:\Users\manda\OneDrive\Pictures\Screenshots\NSG &Vnet.png")

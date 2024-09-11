@@ -102,7 +102,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
   - ![VNetSS Screenshot](vnet.png )
 
   **Created Subnets Screenshot**
-  - ![SubnetSS Screenshot]( "C:\Users\manda\OneDrive\Pictures\Screenshots\Subnet.png")
+  - ![SubnetSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Subnet.png)
 
    **Deployed VM 1 Screenshot**
   - ![VM1SS Screenshot](./ProjectScreenshots/VM1SS.png)

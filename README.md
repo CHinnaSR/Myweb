@@ -86,8 +86,8 @@ The hotel industry faces significant challenges in managing room bookings, parti
 
 ## Live Website and Resources
 
-- **Website Link**: [Sitara-Hotel](https://github.com/CHinnaSR/Sitara-Hotel.git)
-- **Demo Video**: [YouTube Demo](https://youtube.com/example)
+- **Website Link**: [Sitara-Hotel](40.81.249.196)
+- **Demo Video**: [YouTube Demo](https://youtu.be/RzvqM55XfrU)
 - **Screenshots**:
   **Created Resource Group Screenshot**
   - ![ResourceGroup Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Screenshot%20ResourceGroup.png)
